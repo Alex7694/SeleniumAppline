@@ -2,6 +2,7 @@ package YandexMarket;
 
 import SberbankInsuarance.steps.BaseStep;
 import YandexMarket.pages.*;
+import org.junit.Ignore;
 import org.junit.Test;
 
 public class TvRefactoringStep extends BaseStep {

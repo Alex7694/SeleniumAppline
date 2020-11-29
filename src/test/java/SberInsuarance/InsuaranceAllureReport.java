@@ -2,6 +2,7 @@ package SberInsuarance;
 
 
 import SberbankInsuarance.steps.*;
+import org.junit.Ignore;
 import org.junit.Test;
 import ru.yandex.qatools.allure.annotations.Title;
 

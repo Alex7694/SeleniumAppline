@@ -3,6 +3,7 @@ package YandexMarket;
 import SberbankInsuarance.steps.BaseStep;
 import YandexMarket.pages.ResultSearchPage;
 import YandexMarket.steps.*;
+import org.junit.Ignore;
 import org.junit.Test;
 import ru.yandex.qatools.allure.annotations.Title;
 

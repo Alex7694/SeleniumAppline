@@ -23,7 +23,6 @@ public class MarketHeadphonesTest {
     }
 
     @Test
-
     public void testMarketHeadphones() {
 
         //Открываем страницу Яндекса

@@ -5,6 +5,7 @@ import SberbankInsuarance.pages.MainPage;
 import SberbankInsuarance.pages.ProductSelectionPage;
 import SberbankInsuarance.pages.RegistrationPage;
 import SberbankInsuarance.steps.BaseStep;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import static org.junit.Assert.assertTrue;
